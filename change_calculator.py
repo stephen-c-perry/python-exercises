@@ -1,3 +1,8 @@
+''' 
+Contributors: Stephen Perry, Jorge Lopez, Ian Crane, Nick Angarita
+
+'''
+
 #!/usr/bin/env python
 # coding: utf-8
 
